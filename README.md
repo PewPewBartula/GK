@@ -14,5 +14,3 @@ EggLight2 - Druga część Ćwiczenia 5,
 Texture - Ćwiczenie 6,
 
 Zgodnie z http://www.zsk.ict.pwr.wroc.pl/zsk/dyd/intinz/gk/lab/
-
-Solar - Miniprojekt Układu SŁonecznego.
